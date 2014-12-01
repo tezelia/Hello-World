@@ -1,6 +1,9 @@
 Hello-World
 ===========
 
+//This code allows user input to move gameobject on Unity3D using arrow keys on keyboard
+//done in Unity JavaScript - test
+
 my first test post
 
 #pragma strict
